@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+    background-color: navy;
+    color: goldenrod;
+}
+
+.btn
+{
+    height: 200px;
+    width: 200px;
+    border: 15px solid black;
+    border-radius: 30px;
+    margin: 1.7rem;
+    cursor: pointer;
+}
+
+.button
+{
+    display: flex;
+    justify-content: center;
+}
+.red
+{
+    background-color: red;
+}
+.green
+{
+    background-color: green;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.blue
+{
+    background-color: blue;
+}
+.gameflash
+{
+    background-color: navy;
+}
+.userflash
+{
+    background-color: gray;
+}
